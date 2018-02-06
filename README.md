@@ -7,3 +7,8 @@
 on the nav bar
 Code -> Generate -> Getter and Setter
 ```
+- To access code follow the directory:
+```
+java-account_exec/account/src/com/company/Account.java
+java-account_exec/account/src/com/company/Main.java
+```
